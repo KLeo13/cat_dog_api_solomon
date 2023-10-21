@@ -49,11 +49,11 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ## Setup
 
-git clone https://github.com/KLeo13/cat_dog_api_solomon
-composer install
-npm install
-copy the contents of `setup.env' to a '.env' file
-On two separate terminals, run 'php artisan serve' and 'npm run watch'
+- git clone https://github.com/KLeo13/cat_dog_api_solomon
+- composer install
+- npm install
+- copy the contents of `setup.env' to a '.env' file
+- On two separate terminals, run 'php artisan serve' and 'npm run watch'
 
 ## Contributing
 
