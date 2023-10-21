@@ -47,6 +47,14 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[Lendio](https://lendio.com)**
 
+## Setup
+
+git clone https://github.com/KLeo13/cat_dog_api_solomon
+composer install
+npm install
+copy the contents of `setup.env' to a '.env' file
+On two separate terminals, run 'php artisan serve' and 'npm run watch'
+
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
