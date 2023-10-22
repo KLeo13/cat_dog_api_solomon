@@ -54,6 +54,14 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - npm install
 - copy the contents of `setup.env' to a '.env' file
 - On two separate terminals, run 'php artisan serve' and 'npm run watch'
+- use web browser and open 'localhost:8000'
+
+## URLs
+- localhost:8000/
+- localhost:8000/v1/breeds
+- localhost:8000/v1/breeds?page=[number]&limit=[number] (number of pages and limit)
+- localhost:8000/v1/breeds/[breed] ('dog' or 'cat')
+- localhost:8000/v1/image/[image_id] (reference_image_id of the pet)
 
 ## Contributing
 
